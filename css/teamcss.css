@@ -1,0 +1,83 @@
+.thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+}
+.thumbnail>img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+img {
+    vertical-align: middle;
+}
+.border-team {
+    border-bottom: 1px solid #e2e2e2;
+    margin-bottom: 10px;
+}
+.thumbnail {
+    display: inline-block;
+    display: block;
+    height: auto;
+    max-width: 100%;
+    padding: 4px;
+    line-height: 1.428571429;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.team-content {
+    padding: 0px 15px 15px 15px;
+}
+.border-team {
+    border-bottom:1px solid #e2e2e2;
+    margin-bottom:10px;
+}
+.team-img:hover {
+    background:#f5f5f5;
+
+}
+
+/* Social Icons */
+
+.social-icons{
+
+    margin: 0;
+    padding: 0;
+    font-size: 11.6px;
+}
+@media only screen and (max-width: 480px){ 
+
+    .social-icons{
+        font-size: 14.6px !important;
+    }
+
+}
+
+
+.social {
+    margin:7px 7px 7px 0px;
+    color:#232323;
+}
+
+
+#social-fb:hover {
+    color: #3B5998;
+    transition:all .25s;
+}
+#social-tw:hover {
+    color: #4099FF;
+    transition:all .25s;
+}
+#social-gp:hover {
+    color: #d34836;
+    transition:all .25s;
+}
+#social-em:hover {
+    color: #f39c12;
+    transition:all .25s;
+}
+
+

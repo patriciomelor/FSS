@@ -1,0 +1,66 @@
+
+
+
+.btn .btn-inner {
+    position: center;
+    z-index: 2;
+}
+
+.boton {
+    position: relative;
+    bottom:100px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn:hover::before {
+    top: 0;
+    height: 100%;
+    opacity: 1;
+    transition: height 0.2s ease, top 0.2s ease, opacity 0s linear 0s;
+}
+.btn:hover::after {
+    border-color: #373737;
+    transition: border 0.1s linear 0s;
+}
+
+@keyframes carrusel-infinito {
+    0%, 33.33% { background-image: url(../img/banners/news/new2/banner_h1.png); }
+    33.33%, 66.66% { background-image: url(../img/banners/news/new2/banner_h3.png); }
+    66.66%, 100% { background-image: url(../img/banners/news/new2/banner_h2.png); }
+}
+
+.slideshow{
+    margin: auto;
+    height: 700px;
+    width: 50%;
+    background: url(../img/banners/news/new2/banner_h1.png) no-repeat center;
+    background-size: contain;
+    -webkit-animation: carrusel-infinito 10.5s infinite 1s alternate ease-in-out;
+    animation: carrusel-infinito 10.5s infinite 1s alternate ease-in-out;
+}
+
+.slideshow .slide .btn {
+    margin: 15px 0 0;
+    border-color: #fff;
+}
+.slideshow .slide .btn::before {
+    background: #fff;
+}
+
+.slideshow .slide .caption {
+    padding-top: 450px;
+}
+
+.imagen-fondo{
+    background-image: url(../img/banners/news/new2/bannerBG1.jpg);
+    background-size: cover;
+    background-position: center;
+}

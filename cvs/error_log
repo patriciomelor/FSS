@@ -1,0 +1,1101 @@
+[15-Jul-2022 14:33:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 14:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 14:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 14:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 14:58:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 15:36:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 15:36:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:34:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 19:34:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:35:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 19:35:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:36:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 19:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:36:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 19:36:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:39:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 19:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:41:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 19:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:42:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 19:42:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:42:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 19:42:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:42:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/config.php on line 23
+[15-Jul-2022 19:42:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 11
+[15-Jul-2022 19:45:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 19:45:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 19:47:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 19:47:38 UTC] PHP Warning:  include(../menu-principal.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 19:47:38 UTC] PHP Warning:  include(): Failed opening '../menu-principal.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 19:47:38 UTC] PHP Warning:  include(../banners.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 19:47:38 UTC] PHP Warning:  include(): Failed opening '../banners.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 19:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 19:56:49 UTC] PHP Warning:  include(../menu-principal.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 19:56:49 UTC] PHP Warning:  include(): Failed opening '../menu-principal.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 19:56:49 UTC] PHP Warning:  include(../banners.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 19:56:49 UTC] PHP Warning:  include(): Failed opening '../banners.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 19:57:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 19:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 19:58:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 19:58:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 19:59:02 UTC] PHP Warning:  include(../menu-principal.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 19:59:02 UTC] PHP Warning:  include(): Failed opening '../menu-principal.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 19:59:02 UTC] PHP Warning:  include(../banners.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 19:59:02 UTC] PHP Warning:  include(): Failed opening '../banners.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 20:03:45 UTC] PHP Warning:  include(../menu-principal.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 20:03:45 UTC] PHP Warning:  include(): Failed opening '../menu-principal.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 20:03:45 UTC] PHP Warning:  include(../banners.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 20:03:45 UTC] PHP Warning:  include(): Failed opening '../banners.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 20:05:11 UTC] PHP Warning:  include(../menu-principal.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 20:05:11 UTC] PHP Warning:  include(): Failed opening '../menu-principal.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 20:05:11 UTC] PHP Warning:  include(../banners.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 20:05:11 UTC] PHP Warning:  include(): Failed opening '../banners.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 20:06:51 UTC] PHP Warning:  include(../menu-principal.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 20:06:51 UTC] PHP Warning:  include(): Failed opening '../menu-principal.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 20:06:51 UTC] PHP Warning:  include(../banners.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 20:06:51 UTC] PHP Warning:  include(): Failed opening '../banners.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 20:07:57 UTC] PHP Warning:  include(../menu-principal.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 20:07:57 UTC] PHP Warning:  include(): Failed opening '../menu-principal.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 104
+[15-Jul-2022 20:07:57 UTC] PHP Warning:  include(../banners.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 20:07:57 UTC] PHP Warning:  include(): Failed opening '../banners.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 131
+[15-Jul-2022 20:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:11:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:18:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:25:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:32:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:33:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:45:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:48:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 20:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 21:33:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 21:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 21:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 22:45:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 22:46:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 22:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:02:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:04:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:06:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:10:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:14:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl', '')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:19:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl', '')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:25:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl', '0JuKa49irFE')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:48:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[15-Jul-2022 23:51:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[15-Jul-2022 23:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[16-Jul-2022 12:03:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[16-Jul-2022 12:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 12:38:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 12:38:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 13:27:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 13:27:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 14:39:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 14:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 15:51:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 15:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 15:53:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 15:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 19:03:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 19:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 19:25:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 19:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 19:26:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 19:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 19:26:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 19:26:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 19:32:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 19:32:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 19:33:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 19:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 19:39:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 19:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 19:41:29 UTC] PHP Warning:  include(../menu-principal.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 104
+[18-Jul-2022 19:41:29 UTC] PHP Warning:  include(): Failed opening '../menu-principal.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 104
+[18-Jul-2022 19:41:29 UTC] PHP Warning:  include(../banners.php): failed to open stream: No such file or directory in /home/fsscl/public_html/cvs/index1.php on line 131
+[18-Jul-2022 19:41:29 UTC] PHP Warning:  include(): Failed opening '../banners.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fsscl/public_html/cvs/index1.php on line 131
+[18-Jul-2022 19:49:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 19:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[18-Jul-2022 19:49:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[18-Jul-2022 19:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 14:38:20 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 14:38:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:23:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:35:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:41:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:47:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:47:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:52:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:52:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:52:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:52:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:52:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:55:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:55:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:56:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:56:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('200.35.157.34', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:57:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('200.35.157.34', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:57:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('200.35.157.34', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:57:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:57:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('200.35.157.34', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:57:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('200.35.157.34', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:57:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('200.35.157.34', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:58:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:58:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('200.35.157.34', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 15:58:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 15:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('200.35.157.34', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 16:04:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 16:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 16:04:20 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 16:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 16:11:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 16:11:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 16:19:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 16:19:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 19:41:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 19:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 19:41:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 19:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 19:43:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 19:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 19:55:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 19:55:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 19:55:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 19:55:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 19:55:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/fsscl/public_html/cvs/admin/config.php on line 18
+[19-Jul-2022 19:55:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/admin/config.php:11
+Stack trace:
+#0 /home/fsscl/public_html/cvs/admin/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/admin/config.php on line 11
+[19-Jul-2022 22:32:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgYqM4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[19-Jul-2022 22:36:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgYqM4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 03:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgYqM4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 12:31:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgYqM4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 12:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgYqM4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgYqM4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:34:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:38:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fsscl/public_html/cvs/sesion.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fsscl/public_html/cvs/sesion.php on line 8
+[20-Jul-2022 17:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fsscl/public_html/cvs/sesion.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fsscl/public_html/cvs/sesion.php on line 8
+[20-Jul-2022 17:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 17:43:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:08:41 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:09:09 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:09:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connecttodb() in /home/fsscl/public_html/cvs/config.php:7
+Stack trace:
+#0 /home/fsscl/public_html/cvs/sesion.php(2): include()
+#1 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 7
+[20-Jul-2022 19:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connecttodb() in /home/fsscl/public_html/cvs/config.php:7
+Stack trace:
+#0 /home/fsscl/public_html/cvs/sesion.php(2): include()
+#1 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 7
+[20-Jul-2022 19:09:52 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:10:01 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:10:26 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:11:03 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:11:33 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:12:04 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:13:39 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:13:46 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:14:35 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:14:37 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:15:18 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:15:19 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:16:04 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:16:13 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:17:20 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:17:32 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/fsscl/public_html/cvs/config.php on line 10
+[20-Jul-2022 19:19:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:19:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fsscl/public_html/cvs/sesion.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fsscl/public_html/cvs/sesion.php on line 8
+[20-Jul-2022 19:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/fsscl/public_html/cvs/sesion.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fsscl/public_html/cvs/sesion.php on line 8
+[20-Jul-2022 19:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:20:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:22:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:22:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:22:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:25:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:28:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:29:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fsscl_c9fss'@'localhost' to database 'c9fssdb' in /home/fsscl/public_html/cvs/test.php on line 2
+[20-Jul-2022 19:31:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fsscl_c9fss'@'localhost' to database 'c9fssdb' in /home/fsscl/public_html/cvs/test.php on line 2
+[20-Jul-2022 19:31:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fsscl_c9fss'@'localhost' to database 'c9fssdb' in /home/fsscl/public_html/cvs/test.php on line 2
+[20-Jul-2022 19:36:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:38:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fsscl/public_html/cvs/sesion.php on line 16
+[20-Jul-2022 19:39:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fsscl/public_html/cvs/sesion.php on line 16
+[20-Jul-2022 19:40:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fsscl/public_html/cvs/sesion.php on line 16
+[20-Jul-2022 19:40:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fsscl/public_html/cvs/sesion.php on line 16
+[20-Jul-2022 19:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[20-Jul-2022 19:50:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 15:20:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'c9fssdb', 'c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 15:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 15:28:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 15:38:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fsscl/public_html/cvs/sesion.php on line 14
+[21-Jul-2022 15:38:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fsscl/public_html/cvs/sesion.php on line 14
+[21-Jul-2022 15:43:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fsscl/public_html/cvs/sesion.php on line 14
+[21-Jul-2022 16:07:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fsscl/public_html/cvs/sesion.php on line 14
+[21-Jul-2022 17:04:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fsscl/public_html/cvs/sesion.php on line 14
+[21-Jul-2022 17:04:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fsscl/public_html/cvs/sesion.php on line 14
+[21-Jul-2022 17:06:26 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/fsscl/public_html/cvs/sesion.php on line 8
+[21-Jul-2022 17:06:31 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/fsscl/public_html/cvs/sesion.php on line 8
+[21-Jul-2022 17:06:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/fsscl/public_html/cvs/sesion.php on line 8
+[21-Jul-2022 17:09:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/fsscl/public_html/cvs/sesion.php on line 8
+[21-Jul-2022 17:11:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fsscl/public_html/cvs/sesion.php on line 15
+[21-Jul-2022 17:12:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fsscl/public_html/cvs/sesion.php on line 15
+[21-Jul-2022 17:12:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fsscl/public_html/cvs/sesion.php on line 15
+[21-Jul-2022 17:15:24 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/fsscl/public_html/cvs/sesion.php on line 8
+[21-Jul-2022 17:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_select_db() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:20:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:20:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:20:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:20:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:21:59 UTC] PHP Warning:  mysqli_connect() expects parameter 2 to be string, object given in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:22:04 UTC] PHP Warning:  mysqli_connect() expects parameter 2 to be string, object given in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:22:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:23:01 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:23:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:26:17 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:26:54 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting '{' in /home/fsscl/public_html/cvs/config.php on line 14
+[21-Jul-2022 17:26:59 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting '{' in /home/fsscl/public_html/cvs/config.php on line 14
+[21-Jul-2022 17:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connecttodb() in /home/fsscl/public_html/cvs/config.php:7
+Stack trace:
+#0 /home/fsscl/public_html/cvs/sesion.php(2): include()
+#1 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 7
+[21-Jul-2022 17:36:54 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:36:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): db_connect('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:42:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 17:44:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_select_db() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:46:07 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 17:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/fsscl/public_html/cvs/config.php:15
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 15
+[21-Jul-2022 19:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 15:15:27 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 15:16:21 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 15:19:19 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 15:27:12 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Jul-2022 15:45:12 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fsscl/public_html/cvs/config.php on line 13
+[04-Aug-2022 15:28:03 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Sep-2022 16:43:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Sep-2022 16:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13
+[21-Sep-2022 16:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/fsscl/public_html/cvs/config.php:13
+Stack trace:
+#0 /home/fsscl/public_html/cvs/config.php(7): connecttodb('localhost', 'fsscl_c9fssdb', 'fsscl_c9fss', 'fbMgY@M4')
+#1 /home/fsscl/public_html/cvs/sesion.php(2): include('/home/fsscl/pub...')
+#2 {main}
+  thrown in /home/fsscl/public_html/cvs/config.php on line 13

@@ -1,0 +1,24 @@
+[06-Oct-2022 14:37:37 UTC] PHP Warning:  include(plantilla.php): failed to open stream: No such file or directory in /home/fsscl/public_html/sign/index.php on line 93
+[06-Oct-2022 14:37:37 UTC] PHP Warning:  include(): Failed opening 'plantilla.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fsscl/public_html/sign/index.php on line 93
+[06-Oct-2022 14:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Plantilla' not found in /home/fsscl/public_html/sign/index.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/fsscl/public_html/sign/index.php on line 105
+[06-Oct-2022 14:37:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sostenedor_error() in /home/fsscl/public_html/sign/plantilla.php:15
+Stack trace:
+#0 /home/fsscl/public_html/sign/index.php(124): plantilla->muestra()
+#1 {main}
+  thrown in /home/fsscl/public_html/sign/plantilla.php on line 15
+[06-Oct-2022 14:37:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sostenedor_error() in /home/fsscl/public_html/sign/plantilla.php:15
+Stack trace:
+#0 /home/fsscl/public_html/sign/index.php(145): plantilla->muestra()
+#1 {main}
+  thrown in /home/fsscl/public_html/sign/plantilla.php on line 15
+[06-Oct-2022 14:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sostenedor_error() in /home/fsscl/public_html/sign/plantilla.php:15
+Stack trace:
+#0 /home/fsscl/public_html/sign/index.php(124): plantilla->muestra()
+#1 {main}
+  thrown in /home/fsscl/public_html/sign/plantilla.php on line 15
+[06-Oct-2022 15:17:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fsscl/public_html/sign/index.php on line 143
+[06-Oct-2022 15:17:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fsscl/public_html/sign/index.php on line 143
+[06-Oct-2022 15:17:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fsscl/public_html/sign/index.php on line 143
