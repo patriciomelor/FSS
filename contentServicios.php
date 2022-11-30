@@ -261,39 +261,7 @@
                                     </div>
                                 </div>
                            </div>
-                    <!--TRANSPORTE INTERNACIONAL-->
-                            <!-- <div class="card" style="background:rgba(210, 206, 206, 0.593);cursor:pointer;margin:10px;">
-                                <div class="card-header" id="headingxiii">
-                                        <h5 class="mb-0" data-toggle="collapse" data-target="#collapsexiii" aria-expanded="true" aria-controls="collapsexiii">
-                                        Asesoría en Transporte
-                                        </h5>
-                                    </div>
-                                <div id="collapsexiii" class="collapse " aria-labelledby="headingxiii" data-parent="#accordion1"style="background:#fff;">
-                                        <div class="card-body" style="background:#fff;">
-                                                <ul>
-                                                    <li>Asesoría para el manejo de carga nacional e internacional: importación y exportación</li>
-                                                    <li>Coordinación de retiros de mercadería desde los aeropuertos y principales puertos</li>
-                                                    <li>Asesoría y coordinación según tipo de carga: contenedores dry, refer e imo; contenedores full y carga suelta; cargas especiales</li>
-                                                    <li>Consolidación y desconsolidación de contenedores o mercancías</li>
-                                                    <li>Coordinación de servicios y/o equipos especiales: escolta; grúa horquilla y sidelifter; cuadrilla de operaciones logísticas</li>
-                                                    <li>GPS y monitoreo online </li>
-                                                    <li>Almacenaje de contenedores</li>
-                                                    <li>Reporte de KPI’s para mejora continua</li>
-                                                    <li>Equipo especializado</li>
-                                                    <li>Asesoría según medio de transporte:</li>
-                                                    <ul>
-                                                         <li><strong>Transporte Marítimo</strong> </li>
-                                                        
-                                                            <li><strong>Transporte Aéreo</strong></li>
-                                                           
-                                                            <li><strong>Transporte Terrestre Internacional</strong></li>
-                                                            <li><strong>Transporte Terrestre Nacional</strong></li>
-                                                          
-                                                     </ul>
-                                                </ul>
-                                        </div>
-                                    </div>
-                            </div> -->
+                   
                     <!--SERVICIOS DE BODEGAJE -->
                            <div class="card" style="background:rgba(210, 206, 206, 0.593);cursor:pointer;margin:10px;">
                                <div class="card-header" id="headingxiv">
@@ -316,6 +284,72 @@
                                     </div>
                                 </div>
                            </div>
+                    <!--TRANSPORTE NACIONAL-->
+                            <div class="card" style="background:rgba(210, 206, 206, 0.593);cursor:pointer;margin:10px;">
+                                        <div class="card-header" id="headingxiii">
+                                                <h5 class="mb-0" data-toggle="collapse" data-target="#collapsexiii" aria-expanded="true" aria-controls="collapsexiii">
+                                                Asesoría en Transporte Nacional
+                                                </h5>
+                                            </div>
+                                        <div id="collapsexiii" class="collapse " aria-labelledby="headingxiii" data-parent="#accordion1"style="background:#fff;">
+                                                <div class="card-body" style="background:#fff;">
+                                                        <ul>
+                                                            <li>Asesoría para el manejo de carga nacional de importación y exportación</li>
+                                                            <li>Coordinación de retiros de mercadería desde los aeropuertos y principales puertos</li>
+                                                            <li>Asesoría y coordinación según tipo de carga: contenedores dry, refer e imo; contenedores full y carga suelta; cargas especiales</li>
+                                                            <li>Consolidación y desconsolidación de contenedores o mercancías</li>
+                                                            <li>Coordinación de servicios y/o equipos especiales: escolta; grúa horquilla y sidelifter; cuadrilla de operaciones logísticas</li>
+                                                            <li>GPS y monitoreo online </li>
+                                                            <li>Almacenaje de contenedores</li>
+                                                            <li>Reporte de KPI’s para mejora continua</li>
+                                                            <li>Equipo especializado</li>
+                                                            <!-- <li>Asesoría según medio de transporte:</li>
+                                                            <ul>
+                                                                <li><strong>Transporte Marítimo</strong> </li>
+                                                                
+                                                                    <li><strong>Transporte Aéreo</strong></li>
+                                                                
+                                                                    <li><strong>Transporte Terrestre Internacional</strong></li>
+                                                                    <li><strong>Transporte Terrestre Nacional</strong></li>
+                                                                
+                                                            </ul> -->
+                                                        </ul>
+                                                </div>
+                                            </div>
+                            </div> 
+                     <!--TRANSPORTE INTERNACIONAL -->
+                            <div class="card" style="background:rgba(210, 206, 206, 0.593);cursor:pointer;margin:10px;">
+                                        <div class="card-header" id="headingxiii">
+                                                <h5 class="mb-0" data-toggle="" data-target="#" aria-expanded="true" aria-controls="">
+                                                Asesoría en Transporte Internacional
+                                                </h5>
+                                            </div>
+                                        <!-- <div id="" class=" " aria-labelledby="" data-parent="#accordion1"style="background:#fff;">
+                                                <div class="card-body" style="background:#fff;">
+                                                        <ul>
+                                                            <li>Asesoría para el manejo de carga nacional de importación y exportación</li>
+                                                            <li>Coordinación de retiros de mercadería desde los aeropuertos y principales puertos</li>
+                                                            <li>Asesoría y coordinación según tipo de carga: contenedores dry, refer e imo; contenedores full y carga suelta; cargas especiales</li>
+                                                            <li>Consolidación y desconsolidación de contenedores o mercancías</li>
+                                                            <li>Coordinación de servicios y/o equipos especiales: escolta; grúa horquilla y sidelifter; cuadrilla de operaciones logísticas</li>
+                                                            <li>GPS y monitoreo online </li>
+                                                            <li>Almacenaje de contenedores</li>
+                                                            <li>Reporte de KPI’s para mejora continua</li>
+                                                            <li>Equipo especializado</li>
+                                                            <li>Asesoría según medio de transporte:</li>
+                                                            <ul>
+                                                                <li><strong>Transporte Marítimo</strong> </li>
+                                                                
+                                                                    <li><strong>Transporte Aéreo</strong></li>
+                                                                
+                                                                    <li><strong>Transporte Terrestre Internacional</strong></li>
+                                                                    <li><strong>Transporte Terrestre Nacional</strong></li>
+                                                                
+                                                            </ul>  
+                                                        </ul>
+                                                </div>
+                                            </div> -->
+                            </div> 
                     </div>
                 </div><!--col-lg-6-->
             </div><!--row-->
