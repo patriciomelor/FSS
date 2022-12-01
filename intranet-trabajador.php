@@ -98,6 +98,11 @@
 
                         <div class="team-content" style="backgorund:#008a76 !important;padding-bottom: 0px;">
                             <div class="col-md-12 fontNav908" style=" text-align: center;">
+                               <div class="col-md-12" style="text-align:  center;margin-bottom: 20px;">
+                                    <p style="text-align: center">
+                                        <img src="Fotos/Iconos/Notebook.png"  width="100%" alt="">
+                                    </p>
+                                </div>
                                 <p class="paddingPMenu">
                                     <a href="https://soporte.fss.cl" target="_blank" class="btn btn-outline-secondary "
                                         style="color: black;text-align: center;background: white;font-size: 20px;">
@@ -105,14 +110,7 @@
                                     </a>
                                 </p>
                             </div>
-                            <p style="text-align: justify;padding-top: 5px;"> Estimado trabajador:<br><br>
-                            En el Portal Ticket de nuestra Área  TI, podrás dejar todos tus requerimientos relacionados al departamento, como por ejemplo:
-                            <br><br>
-                            Problema de almacenamiento en correo, solicitud instalación impresora, restablecer contraseña de correo/SIGAD, lentitud en notebook/PC, entre otras solicitudes que puedas tener.
-
-                                <br><br>
-
-                            </p>
+                        
                         </div>
                     </div>
                 </div>
@@ -120,8 +118,13 @@
                 <div class="col-md-4 team-box" >
                     <div class="team-img thumbnail" style="height: auto;background:#008a76!important">
 
-                        <div class="team-content" style="backgorund:#008a76 !important">
+                        <div class="team-content" style="background:#008a76 !important;padding-bottom: 0px !important;">
                             <div class="col-md-12 fontNav908" style=" text-align: center;">
+                            <div class="col-md-12" style="text-align:  center;margin-bottom: 20px;">
+                                    <p style="text-align: center">
+                                        <img src="Fotos/Iconos/Conexion.png"  width="100%" alt="">
+                                    </p>
+                                </div>
                                 <p class="paddingPMenu">
                                     <a href="https://portalrh.softlandcloud.cl/" target="_blank" class="btn btn-outline-secondary"
                                         style="color: black;text-align: center;background: white;font-size: 20px;">
@@ -129,32 +132,19 @@
                                     </a>
                                 </p>
                             </div>
-                            <p style="text-align: justify;padding-top: 5px;padding-bottom: 45px;"> Estimado trabajador:<br><br>
-
-
-                                El Portal del Trabajador encontrarás acceso a tus  documentos como:
-                                Liquidaciones, Contratos y Anexos.<br><br>
-
-                                También podrás, revisar tu saldo de vacaciones y solicitarlas.<br>
-
-
-
-
-                                <br><br>
-
-                            </p>
+                          
                         </div>
                     </div>
                 </div>
 
             </div>
 
-            <div class="col-md-12" style="text-align:  center;margin-bottom: 20px;">
+            <!-- <div class="col-md-12" style="text-align:  center;margin-bottom: 20px;">
                 <p style="text-align: center">
                 <h1 style="color: #008a76">#SigamosCrenciendoJuntos
                 </h1>
                 </p>
-            </div>
+            </div> -->
 
 
             </div>
