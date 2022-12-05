@@ -100,7 +100,7 @@
                             <div class="col-md-12 fontNav908" style=" text-align: center;">
                                <div class="col-md-12" style="text-align:  center;margin-bottom: 20px;">
                                     <p style="text-align: center">
-                                        <img src="Fotos/Iconos/Laptop.png"  width="100%" alt="">
+                                        <img src="Fotos/Iconos/Laptop.png"  width="70%" alt="">
                                     </p>
                                 </div>
                                 <p class="paddingPMenu">
@@ -122,7 +122,7 @@
                             <div class="col-md-12 fontNav908" style=" text-align: center;">
                             <div class="col-md-12" style="text-align:  center;margin-bottom: 20px;">
                                     <p style="text-align: center">
-                                        <img src="Fotos/Iconos/Co.png"  width="100%" alt="">
+                                        <img src="Fotos/Iconos/Co.png"  width="70%" alt="">
                                     </p>
                                 </div>
                                 <p class="paddingPMenu">
